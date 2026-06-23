@@ -9,8 +9,8 @@ title: 玩转通用智能体之 Claude Code
 
 # 玩转通用智能体之 Claude Code
 
-> 一本中文的 Claude Code 实战随笔。从"它是什么"讲到"自己造一只"，27 章 + 尾声，约 2.5 万字。
-> 内容对照 [code.claude.com](https://code.claude.com/docs/en/overview) 官方文档，并保留作者的随笔口吻。
+> 一本写 Claude Code 的中文随笔，二十七章，外加一篇尾声。从「它是什么」讲起，一路讲到你怎么照自己的需要养出一只怪兽。
+> 书里的命令和说法都对着 [code.claude.com](https://code.claude.com/docs/en/overview) 的官方文档核过；至于讲法，仍是闲谈的路子，不端着。
 
 ---
 
@@ -23,7 +23,7 @@ title: 玩转通用智能体之 Claude Code
 | [第3章 基本用法：与智能怪兽共舞](chapter03_basic_usage.md) |
 | [第4章 CLAUDE.md：与智能怪兽的契约](chapter04_claude_md.md) |
 | [第5章 Plan 模式：三思而后行](chapter05_plan_mode.md) |
-| [第6章 写 Prompt 的艺术](chapter06_prompt_art.md) |
+| [第6章 写提示词的艺术](chapter06_prompt_art.md) |
 | [第7章 会话管理：记住与遗忘的艺术](chapter07_session_management.md) |
 | [第8章 Hooks：自动化的魔法](chapter08_hooks.md) |
 | [第9章 Subagents：分身有术](chapter09_subagents.md) |
