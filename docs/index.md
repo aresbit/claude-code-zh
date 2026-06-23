@@ -3,6 +3,10 @@ layout: default
 title: 玩转通用智能体之 Claude Code
 ---
 
+<p align="center">
+  <img src="book_cover.png" alt="封面" width="320">
+</p>
+
 # 玩转通用智能体之 Claude Code
 
 > 一本中文的 Claude Code 实战随笔。从"它是什么"讲到"自己造一只"，27 章 + 尾声，约 2.5 万字。
