@@ -1,0 +1,7 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+
+title: 玩转通用智能体之 Claude Code
+description: 一本中文的 Claude Code 实战随笔 · 27章
+theme: jekyll-theme-cayman
