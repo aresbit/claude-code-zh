@@ -9,7 +9,7 @@ title: 玩转通用智能体之 Claude Code
 
 # 玩转通用智能体之 Claude Code
 
-> 一本写 Claude Code 的中文随笔，二十七章，外加一篇尾声。从「它是什么」讲起，一路讲到你怎么照自己的需要养出一只怪兽。
+> 一本写 Claude Code 的中文随笔，二十八章，外加一篇尾声。从「它是什么」讲起，一路讲到你怎么照自己的需要养出一只怪兽。
 > 书里的命令和说法都对着 [code.claude.com](https://code.claude.com/docs/en/overview) 的官方文档核过；至于讲法，仍是闲谈的路子，不端着。
 
 ---
@@ -45,6 +45,7 @@ title: 玩转通用智能体之 Claude Code
 | [第25章 远程操控与随处可用](chapter25_remote_and_chat.md) |
 | [第26章 自动代码审查：一群怪兽替你挑刺](chapter26_code_review.md) |
 | [第27章 Agent SDK：打造你自己的怪兽](chapter27_agent_sdk.md) |
+| [第28章 Loop 工程：让循环替你干活](chapter28_loop_engineering.md) |
 | [尾声](epilogue.md) |
 
 ---
